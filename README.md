@@ -24,7 +24,6 @@ I work on the layer between raw data and decisions: lakehouse pipelines, dimensi
 ## Find me
 
 - 🌐 Portfolio: [barbarardfonseca.github.io](https://barbarardfonseca.github.io)
-- 💼 LinkedIn: [linkedin.com/in/barbarardfonseca](https://www.linkedin.com/in/barbarardfonseca)
 
 <details>
 <summary>🇧🇷 Em português</summary>
@@ -33,11 +32,14 @@ Sou **Analytics Engineer / BI Engineer**, com mais de 4 anos de experiência em 
 
 Liderei a migração dos projetos de Power BI para o Git, com estrutura de repositórios, estratégia de branches, políticas de proteção e revisão de Pull Requests, além de treinar o time e documentar o processo.
 
-Portfólio: [barbarardfonseca.github.io](https://barbarardfonseca.github.io) · LinkedIn: [linkedin.com/in/barbarardfonseca](https://www.linkedin.com/in/barbarardfonseca)
+Portfólio: [barbarardfonseca.github.io](https://barbarardfonseca.github.io)
 
 </details>
 </div>
  <div align ="center">
+    <a href="https://barbarardfonseca.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-EBB922?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+  </a>
   <a href="https://github.com/BarbaraDFonseca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarardfonseca&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarardfonseca&layout=compact&langs_count=7&theme=midnight-purple"/>
