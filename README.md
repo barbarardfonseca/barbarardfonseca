@@ -21,18 +21,12 @@ I work on the layer between raw data and decisions: lakehouse pipelines, dimensi
 | BI | Power BI (DAX, Power Query, RLS), Metabase, Tableau, Excel |
 | Engineering practices | Git, branch protection, PR review, Azure DevOps, technical documentation |
 
-## Find me
-
-- 🌐 Portfolio: [barbarardfonseca.github.io](https://barbarardfonseca.github.io)
-
 <details>
 <summary>🇧🇷 Em português</summary>
 
 Sou **Analytics Engineer / BI Engineer**, com mais de 4 anos de experiência em dados. Trabalho na camada entre o dado bruto e a decisão: pipelines em lakehouse (Databricks, Spark SQL, Delta Lake, camadas Silver/Gold), modelagem dimensional e modelos semânticos em Power BI (DAX, Power Query, RLS).
 
 Liderei a migração dos projetos de Power BI para o Git, com estrutura de repositórios, estratégia de branches, políticas de proteção e revisão de Pull Requests, além de treinar o time e documentar o processo.
-
-Portfólio: [barbarardfonseca.github.io](https://barbarardfonseca.github.io)
 
 </details>
 </div>
