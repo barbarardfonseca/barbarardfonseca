@@ -31,7 +31,7 @@ Liderei a migração dos projetos de Power BI para o Git, com estrutura de repos
 </details>
 </div>
  <div align ="center">
-  <a href="https://github.com/BarbaraDFonseca">
+  <a href="https://github.com/barbarardfonseca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarardfonseca&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarardfonseca&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
