@@ -1,9 +1,6 @@
 <div>
  
-## Stack
-<br>
- Hi, I'm Bárbara
- 👋
+## Hi, I'm Bárbara 👋
 
 **Analytics Engineer / BI Engineer** · Vitória, ES, Brazil · 4+ years in data
 
